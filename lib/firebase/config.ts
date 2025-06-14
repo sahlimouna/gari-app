@@ -11,7 +11,7 @@ const firebaseConfig = {
   projectId: gari-parkinglocal,
   storageBucket: gari-parkinglocal.firebasestorage.app,
   messagingSenderId: "484158155675",
-  appId:"1:484158155675:web:9d69bcb0b10085b2cf0f3e",
+  appId: "1:484158155675:web:9d69bcb0b10085b2cf0f3e",
 }
 
 // Initialize Firebase
